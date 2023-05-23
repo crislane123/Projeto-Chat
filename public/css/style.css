@@ -1,0 +1,74 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    background: #7F7FD5;
+    background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);
+    background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);
+}
+
+.usuario{
+    background-color: rgba(0, 0, 0, 0.733);
+    align-items: center;
+    height: 80px;
+    justify-content:left;
+    display: flex;
+    font-size: 20px;
+    vertical-align: 50%;
+}
+
+.center{
+    border-radius: 20px;
+    height: 30px;
+    width: 200px;
+    border: 2px solid aqua;
+    background-color: rgba(0, 0, 0, 0.66);
+    color: white;
+    padding-left: 10px;
+    margin: 8px;
+}
+
+img{
+    margin-left: 70px;
+}
+
+
+.center:hover{
+    border: 3px solid rgb(8, 39, 167);
+}
+
+.caixa{
+    background-color: rgba(1, 3, 53, 0.536);
+    width: 70%;
+    height: 520px;
+    margin-top: 4%; 
+    border-radius: 10px;
+}
+
+img{
+    margin-top: 3px;
+}
+
+.sua{
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+    height: 520px;
+}
+
+
+.tudo2{
+   width: 65%;
+   height: 50px;
+   background-color: rgb(0, 0, 0);
+   border-radius: 20px;
+   margin-top: 4px;
+   padding-left: 10px;
+   color: white;
+   border: 2px solid aqua;
+   margin-left: 30px;
+
+}
+
+
+
+
+
