@@ -54,6 +54,25 @@ img{
     height: 520px;
 }
 
+.botao-whatsapp {
+    background-color: #25D366; /* Cor de fundo do WhatsApp */
+    border: none; /* Sem borda */
+    color: white; /* Cor do texto */
+    padding: 12px 20px; /* Espaçamento interno (topo/baixo, esquerda/direita) */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Sem decoração de texto */
+    display: inline-block; /* Exibição em linha */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 2px 2px; /* Margem externa (topo/baixo, esquerda/direita) */
+    cursor: pointer; /* Cursor do mouse ao passar por cima */
+    border-radius: 50px; /* Borda arredondada */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Sombra */
+  }
+  
+  .botao-whatsapp:hover {
+    background-color: #128C7E; /* Cor de fundo alterada ao passar o mouse */
+  }
+
 
 .tudo2{
    width: 65%;
